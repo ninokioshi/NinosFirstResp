@@ -1,2 +1,2 @@
-# NinosFirstResp
-First time setting up a respository 
+# NinosRepository
+Ninos Repository for D1977 Version Control PA
